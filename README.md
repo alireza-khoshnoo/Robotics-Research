@@ -1,2 +1,3 @@
 # Robotics-Research
-Arduino vs Raspberry Pi + Body Materials in Robotics
+### 1- Arduino vs Raspberry Pi
+### 2- Body Materials in Robotics
